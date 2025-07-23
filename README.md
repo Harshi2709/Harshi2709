@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshitha Goureddy</h1>
 
 ## 👩‍💻 About Me
-
 - 🎓 Final-year IT student at Vasavi College of Engineering  
 - 💻 I enjoy building web and AI-based applications  
 - 🌱 Constantly learning and experimenting with new technologies
   
-### 🧰 Tech Stack
-
+### 🧰 Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -20,7 +18,6 @@
 </p>
 
 ### 📫 Connect with Me
-
 - [LinkedIn](www.linkedin.com/in/goureddyharshitha)
 - Email: `goureddyharshitha@gmail.com` 
 
