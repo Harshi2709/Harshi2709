@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshitha Goureddy</h1>
-
-## 👩‍💻 About Me
 - 🎓 Final-year IT student at Vasavi College of Engineering  
 - 💻 I enjoy building web and AI-based applications  
 - 🌱 Constantly learning and experimenting with new technologies
