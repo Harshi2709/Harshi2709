@@ -17,6 +17,6 @@
 </p>
 
 ### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/goureddyharshitha)
+- [LinkedIn](https://www.linkedin.com/in/goureddyharshitha)
 - Email: `goureddyharshitha@gmail.com` 
 
